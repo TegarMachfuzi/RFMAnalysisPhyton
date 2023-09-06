@@ -1,4 +1,4 @@
-Outlet,Receipt Number,Date,Time,Category,Items,Quantity,Discounts,Net Sales,Sales Type,Payment Method
+Outlet,ReceiptNumber,Date,Time,Category,Items,Quantity,Discounts,NetSales,SalesType,PaymentMethod
 Agus Salim,TSBZIO,1/1/2023,10:44:22,Tea,Lemon Tea,1,3600.0,14400.0,Dine In,Cash
 Agus Salim,TSBZIP,1/1/2023,10:52:19,Tea,Lychee Tea,1,5200.0,20800.0,Dine In,Cash
 Agus Salim,TSBZIP,1/1/2023,10:52:19,Signature Coffee,Kopi Rakyat,1,4000.0,16000.0,Dine In,Cash
@@ -4670,8 +4670,8 @@ Agus Salim,1Z4PD8X,2/19/2023,13:36:11,Shopee  ,Kopi Rakyat   ,2,0.0,44000.0,Dine
 Agus Salim,1Z4PD90,2/19/2023,13:51:19,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,Gopay
 Agus Salim,1Z4PD91,2/19/2023,13:52:14,Signature Coffee ,Kopi Rakyat  ,2,0.0,44000.0,Dine In,Gopay
 Agus Salim,1Z4PD92,2/19/2023,13:59:21,Signature Coffee ,Kopi Baileys  ,1,0.0,30000.0,Dine In,BCA
-Agus Salim,1Z4PD93,2/19/2023,14:06:41,Dimsum ,Dimsum Mentai ,1,"9,868,421","20,131,579",Dine In,Gopay
-Agus Salim,1Z4PD93,2/19/2023,14:06:41,Tea ,Lemon Tea  ,1,"8,552,632","17,447,368",Dine In,Gopay
+"Agus Salim,1Z4PD93,2/19/2023,14:06:41,Dimsum ,Dimsum Mentai ,1,""9,868,421"",""20,131,579"",Dine In,Gopay"
+"Agus Salim,1Z4PD93,2/19/2023,14:06:41,Tea ,Lemon Tea  ,1,""8,552,632"",""17,447,368"",Dine In,Gopay"
 Agus Salim,1Z4PD94,2/19/2023,14:07:21,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,Gopay
 Agus Salim,1Z4PD95,2/19/2023,14:13:35,Shopee  ,Kopi Kow   ,1,0.0,29000.0,Dine In,ShopeeFood
 Agus Salim,1Z4PD96,2/19/2023,14:33:48,Tea ,Lychee Tea  ,1,0.0,26000.0,Dine In,Gopay
@@ -4829,7 +4829,7 @@ Agus Salim,1Z4PDJA,2/23/2023,13:31:23,Signature Coffee ,Kopi Sultan  ,2,0.0,5800
 Agus Salim,1Z4PDJB,2/23/2023,13:39:04,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,Cash
 Agus Salim,1Z4PDJC,2/23/2023,14:02:18,Milk Based ,Thai Tea  ,1,0.0,27000.0,Dine In,Gopay
 Agus Salim,1Z4PDJD,2/23/2023,14:10:52,Milk Based ,Raspberry Milk  ,1,0.0,30000.0,Dine In,Gopay
-Agus Salim,1Z4PDJE,2/23/2023,14:19:40,Dimsum ,Dimsum Mentai ,1,"14,423,077","15,576,923",Dine In,Gopay
+"Agus Salim,1Z4PDJE,2/23/2023,14:19:40,Dimsum ,Dimsum Mentai ,1,""14,423,077"",""15,576,923"",Dine In,Gopay"
 Agus Salim,1Z4PDJF,2/23/2023,14:20:33,Milk Based ,Mango Milk  ,1,0.0,27000.0,Dine In,Cash
 Agus Salim,1Z4PDJH,2/23/2023,14:35:12,Shopee  ,Kopi Sultan   ,1,0.0,29000.0,Dine In,ShopeeFood
 Agus Salim,1Z4PDJJ,2/23/2023,14:58:33,Signature Coffee ,Kopi Rakyat  ,1,0.0,28000.0,Dine In,Cash
@@ -5251,9 +5251,9 @@ Agus Salim,1Z4PDRE,2/26/2023,10:18:32,Signature Coffee ,Kopi Rakyat  ,1,0.0,2800
 Agus Salim,1Z4PDRF,2/26/2023,10:22:42,Mocktail ,Red Berries  ,1,0.0,30000.0,Dine In,BCA
 Agus Salim,1Z4PDRG,2/26/2023,10:24:07,Signature Coffee ,Kopi Sultan  ,1,0.0,34000.0,Dine In,BCA
 Agus Salim,1Z4PDRG,2/26/2023,10:24:07,Milk Based ,Matcha Latte  ,1,0.0,30000.0,Dine In,BCA
-Agus Salim,1Z4PDRH,2/26/2023,11:04:56,Rich Bowl ,Richbowl Saikoro Spicy BBQ,1,"14,615,385","23,384,615",Dine In,Cash
-Agus Salim,1Z4PDRH,2/26/2023,11:04:56,Signature Coffee ,Kopi Sultan  ,1,"11,153,846","17,846,154",Dine In,Cash
-Agus Salim,1Z4PDRH,2/26/2023,11:04:56,Espresso Based ,Coffee Latte  ,1,"10,769,231","17,230,769",Dine In,Cash
+"Agus Salim,1Z4PDRH,2/26/2023,11:04:56,Rich Bowl ,Richbowl Saikoro Spicy BBQ,1,""14,615,385"",""23,384,615"",Dine In,Cash"
+"Agus Salim,1Z4PDRH,2/26/2023,11:04:56,Signature Coffee ,Kopi Sultan  ,1,""11,153,846"",""17,846,154"",Dine In,Cash"
+"Agus Salim,1Z4PDRH,2/26/2023,11:04:56,Espresso Based ,Coffee Latte  ,1,""10,769,231"",""17,230,769"",Dine In,Cash"
 Agus Salim,1Z4PDRI,2/26/2023,11:17:47,Main Course ,Carbonara  ,1,0.0,48000.0,Dine In,BCA
 Agus Salim,1Z4PDRI,2/26/2023,11:17:47,Rich Bowl ,Richbowl Saikoro Spicy BBQ,1,0.0,38000.0,Dine In,BCA
 Agus Salim,1Z4PDRJ,2/26/2023,11:52:07,Signature Coffee ,Kopi Kow  ,1,0.0,29000.0,Dine In,BCA
@@ -5585,7 +5585,7 @@ Agus Salim,1Z4PDYC,2/28/2023,21:48:37,Signature Coffee ,Kopi Rakyat  ,2,0.0,5600
 Agus Salim,1Z4PDYD,2/28/2023,21:49:11,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,Cash
 Agus Salim,1Z4PDYE,2/28/2023,21:53:42,Signature Coffee ,Kopi Rakyat  ,1,0.0,28000.0,Dine In,Gopay
 Agus Salim,1Z4PDYE,2/28/2023,21:53:42,Tea ,Lychee Tea  ,1,0.0,26000.0,Dine In,Gopay
-Agus Salim,1Z4PDYF,2/28/2023,22:27:44,Mocktail ,Blue Lime  ,1,"13,636,364","16,363,636",Dine In,Cash
+"Agus Salim,1Z4PDYF,2/28/2023,22:27:44,Mocktail ,Blue Lime  ,1,""13,636,364"",""16,363,636"",Dine In,Cash"
 Agus Salim,1Z4PDYH,2/28/2023,22:36:56,Shopee  ,Kopi Rakyat   ,2,0.0,44000.0,Shopee Food,ShopeeFood
 Agus Salim,1Z4PDYI,2/28/2023,22:37:04,Shopee  ,Kopi Dewan   ,1,0.0,29000.0,Shopee Food,ShopeeFood
 Agus Salim,1Z4PDYI,2/28/2023,22:37:04,Shopee  ,Kopi Rakyat   ,1,0.0,22000.0,Shopee Food,ShopeeFood
@@ -5726,9 +5726,9 @@ Agus Salim,1Z4PE1F,3/2/2023,16:20:19,Signature Coffee ,Kopi Baileys  ,1,0.0,3000
 Agus Salim,1Z4PE1F,3/2/2023,16:20:19,Dimsum ,Dimsum Mix ,1,0.0,26000.0,Dine In,Cash
 Agus Salim,1Z4PE1F,3/2/2023,16:20:19,Rich Bowl ,Richbowl Katsu Mayo ,1,0.0,36000.0,Dine In,Cash
 Agus Salim,1Z4PE1G,3/2/2023,16:44:48,Main Course ,Carbonara  ,1,0.0,48000.0,Dine In,Gopay
-Agus Salim,1Z4PE1I,3/2/2023,17:04:43,Signature Coffee ,Kopi Rakyat  ,1,"9,482,759","12,517,241",Dine In,Cash
-Agus Salim,1Z4PE1I,3/2/2023,17:04:43,Bakery ,Almond Croissant ,1,"11,206,897","14,793,103",Dine In,Cash
-Agus Salim,1Z4PE1I,3/2/2023,17:04:43,Chocolate ,Choco Hazelnut  ,1,"12,931,034","17,068,966",Dine In,Cash
+"Agus Salim,1Z4PE1I,3/2/2023,17:04:43,Signature Coffee ,Kopi Rakyat  ,1,""9,482,759"",""12,517,241"",Dine In,Cash"
+"Agus Salim,1Z4PE1I,3/2/2023,17:04:43,Bakery ,Almond Croissant ,1,""11,206,897"",""14,793,103"",Dine In,Cash"
+"Agus Salim,1Z4PE1I,3/2/2023,17:04:43,Chocolate ,Choco Hazelnut  ,1,""12,931,034"",""17,068,966"",Dine In,Cash"
 Agus Salim,1Z4PE1I,3/2/2023,17:04:43,Rich Bowl ,Richbowl Saikoro Spicy BBQ,1,16379.31,21620.69,Dine In,Cash
 Agus Salim,1Z4PE1J,3/2/2023,17:06:06,Mocktail ,Mango Breeze  ,1,0.0,35000.0,Dine In,Cash
 Agus Salim,1Z4PE1K,3/2/2023,17:09:25,Milk Based ,Matcha Latte  ,1,0.0,34000.0,Dine In,BCA
@@ -5836,7 +5836,7 @@ Agus Salim,1Z4PE54,3/3/2023,16:27:50,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000
 Agus Salim,1Z4PE55,3/3/2023,16:33:31,Espresso Based ,Coffee Latte  ,1,0.0,28000.0,Dine In,Cash
 Agus Salim,1Z4PE56,3/3/2023,16:37:09,Yakult Series ,Lychee Yakult  ,1,0.0,25000.0,Dine In,Gopay
 Agus Salim,1Z4PE56,3/3/2023,16:37:09,Yakult Series ,Lychee Yakult  ,1,0.0,28000.0,Dine In,Gopay
-Agus Salim,1Z4PE57,3/3/2023,16:43:34,Signature Coffee ,Kopi Rakyat  ,2,"25,688,073","30,311,927",Dine In,Gopay
+"Agus Salim,1Z4PE57,3/3/2023,16:43:34,Signature Coffee ,Kopi Rakyat  ,2,""25,688,073"",""30,311,927"",Dine In,Gopay"
 Agus Salim,1Z4PE58,3/3/2023,16:54:56,Gofood  ,Kopi Sultan   ,1,0.0,29000.0,Dine In,GoFood
 Agus Salim,1Z4PE58,3/3/2023,16:54:56,Gofood  ,Kopi Rakyat   ,1,0.0,22000.0,Dine In,GoFood
 Agus Salim,1Z4PE59,3/3/2023,17:03:12,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,Cash
@@ -6182,7 +6182,7 @@ Agus Salim,1Z4PEG7,3/7/2023,11:45:59,Signature Coffee ,Kopi Rakyat  ,1,4400.0,17
 Agus Salim,1Z4PEG8,3/7/2023,11:49:31,Gofood  ,Kopi Rakyat   ,1,0.0,22000.0,GoFood,GoFood
 Agus Salim,1Z4PEG8,3/7/2023,11:49:31,Gofood  ,Bolognaise   ,1,0.0,48000.0,GoFood,GoFood
 Agus Salim,1Z4PEG9,3/7/2023,12:04:31,Gofood  ,Bolognaise   ,1,0.0,48000.0,GoFood,GoFood
-Agus Salim,1Z4PEGA,3/7/2023,12:20:23,Rich Bowl ,Richbowl Katsu Sambal Matah ,1,"13,768,116","24,231,884",Dine In,Gopay
+"Agus Salim,1Z4PEGA,3/7/2023,12:20:23,Rich Bowl ,Richbowl Katsu Sambal Matah ,1,""13,768,116"",""24,231,884"",Dine In,Gopay"
 Agus Salim,1Z4PEGB,3/7/2023,12:21:24,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,Gopay
 Agus Salim,1Z4PEGC,3/7/2023,12:21:56,Gofood  ,Kopi Rakyat   ,2,0.0,44000.0,Dine In,GoFood
 Agus Salim,1Z4PEGC,3/7/2023,12:21:56,Gofood  ,Kopi Rakyat   ,1,0.0,22000.0,Dine In,GoFood
@@ -7813,9 +7813,9 @@ Agus Salim,1Z4PFM1,3/21/2023,19:32:35,Milk Based ,Mango Milk  ,1,0.0,27000.0,Din
 Agus Salim,1Z4PFR0,3/23/2023,20:10:59,Signature Coffee ,Kopi Sultan  ,1,0.0,29000.0,Dine In,Gopay
 Agus Salim,1Z4PFR1,3/23/2023,20:14:02,Espresso Based ,Black Coffee  ,1,0.0,24000.0,Dine In,Gopay
 Agus Salim,1Z4PFR2,3/23/2023,20:16:58,Gofood  ,Caramel Latte   ,1,0.0,30000.0,GoFood,GoFood
-Agus Salim,1Z4PFR3,3/23/2023,20:25:51,Chocolate ,Choco Banana  ,1,"15,686,275","16,313,725",Dine In,Gopay
-Agus Salim,1Z4PFR3,3/23/2023,20:25:51,Milk Based ,Matcha Latte  ,1,"16,666,667","17,333,333",Dine In,Gopay
-Agus Salim,1Z4PFR3,3/23/2023,20:25:51,Rich Bowl ,Richbowl Katsu Spicy BBQ ,1,"17,647,059","18,352,941",Dine In,Gopay
+"Agus Salim,1Z4PFR3,3/23/2023,20:25:51,Chocolate ,Choco Banana  ,1,""15,686,275"",""16,313,725"",Dine In,Gopay"
+"Agus Salim,1Z4PFR3,3/23/2023,20:25:51,Milk Based ,Matcha Latte  ,1,""16,666,667"",""17,333,333"",Dine In,Gopay"
+"Agus Salim,1Z4PFR3,3/23/2023,20:25:51,Rich Bowl ,Richbowl Katsu Spicy BBQ ,1,""17,647,059"",""18,352,941"",Dine In,Gopay"
 Agus Salim,1Z4PFR4,3/23/2023,20:26:39,Signature Coffee ,Kopi Rakyat  ,1,0.0,28000.0,Dine In,Cash
 Agus Salim,1Z4PFR4,3/23/2023,20:26:39,Chocolate ,Choco Paddle  ,1,0.0,32000.0,Dine In,Cash
 Agus Salim,1Z4PFR7,3/23/2023,20:34:16,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,Cash
@@ -8539,10 +8539,10 @@ Agus Salim,1Z4PG49,3/30/2023,19:42:42,Rich Bowl ,Richbowl Katsu Blacpeper ,1,0.0
 Agus Salim,1Z4PG4A,3/30/2023,19:53:21,Milk Based ,Matcha Latte  ,1,0.0,30000.0,Dine In,Gopay
 Agus Salim,1Z4PG4B,3/30/2023,19:57:57,Gofood  ,Kopi Rakyat   ,2,0.0,44000.0,GoFood,GoFood
 Agus Salim,1Z4PG4C,3/30/2023,19:58:20,Shopee  ,Kopi Rakyat   ,2,0.0,44000.0,Shopee Food,ShopeeFood
-Agus Salim,1Z4PG4D,3/30/2023,20:01:50,Tea ,Lemon Tea  ,1,"9,923,664","16,076,336",Dine In,Gopay
-Agus Salim,1Z4PG4D,3/30/2023,20:01:50,Rich Bowl ,Richbowl Rib Eye Teriyaki,1,"14,503,817","23,496,183",Dine In,Gopay
-Agus Salim,1Z4PG4D,3/30/2023,20:01:50,Rich Bowl ,Richbowl Saikoro Spicy BBQ,1,"14,503,817","23,496,183",Dine In,Gopay
-Agus Salim,1Z4PG4D,3/30/2023,20:01:50,Signature Coffee ,Kopi Dewan  ,1,"11,068,702","17,931,298",Dine In,Gopay
+"Agus Salim,1Z4PG4D,3/30/2023,20:01:50,Tea ,Lemon Tea  ,1,""9,923,664"",""16,076,336"",Dine In,Gopay"
+"Agus Salim,1Z4PG4D,3/30/2023,20:01:50,Rich Bowl ,Richbowl Rib Eye Teriyaki,1,""14,503,817"",""23,496,183"",Dine In,Gopay"
+"Agus Salim,1Z4PG4D,3/30/2023,20:01:50,Rich Bowl ,Richbowl Saikoro Spicy BBQ,1,""14,503,817"",""23,496,183"",Dine In,Gopay"
+"Agus Salim,1Z4PG4D,3/30/2023,20:01:50,Signature Coffee ,Kopi Dewan  ,1,""11,068,702"",""17,931,298"",Dine In,Gopay"
 Agus Salim,1Z4PG4E,3/30/2023,20:05:47,Side Dish ,Mix Platter's ,1,0.0,36000.0,Dine In,BCA
 Agus Salim,1Z4PG4E,3/30/2023,20:05:47,Blend ,Cookies & Cream  ,1,16000.0,16000.0,Dine In,BCA
 Agus Salim,1Z4PG4E,3/30/2023,20:05:47,Espresso Based ,Caramel Macchiato  ,1,16000.0,16000.0,Dine In,BCA
@@ -9129,9 +9129,9 @@ Agus Salim,1Z4PGGJ,4/4/2023,17:09:03,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000
 Agus Salim,1Z4PGGK,4/4/2023,17:41:14,Side Dish ,Mix Platter's ,1,0.0,36000.0,Dine In,BCA
 Agus Salim,1Z4PGGK,4/4/2023,17:41:14,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,BCA
 Agus Salim,1Z4PGGK,4/4/2023,17:41:14,Tea ,Lychee Tea  ,1,0.0,26000.0,Dine In,BCA
-Agus Salim,1Z4PGGL,4/4/2023,17:52:36,Rich Bowl ,Richbowl Katsu Spicy BBQ ,1,"7,377,049","28,622,951",Dine In,Gopay
-Agus Salim,1Z4PGGL,4/4/2023,17:52:36,Tea ,Lychee Tea  ,1,"5,327,869","20,672,131",Dine In,Gopay
-Agus Salim,1Z4PGGL,4/4/2023,17:52:36,Rich Bowl ,Richbowl Saikoro Spicy BBQ,3,"23,360,656","90,639,344",Dine In,Gopay
+"Agus Salim,1Z4PGGL,4/4/2023,17:52:36,Rich Bowl ,Richbowl Katsu Spicy BBQ ,1,""7,377,049"",""28,622,951"",Dine In,Gopay"
+"Agus Salim,1Z4PGGL,4/4/2023,17:52:36,Tea ,Lychee Tea  ,1,""5,327,869"",""20,672,131"",Dine In,Gopay"
+"Agus Salim,1Z4PGGL,4/4/2023,17:52:36,Rich Bowl ,Richbowl Saikoro Spicy BBQ,3,""23,360,656"",""90,639,344"",Dine In,Gopay"
 Agus Salim,1Z4PGGM,4/4/2023,17:56:14,Side Dish ,Mix Platter's ,1,0.0,36000.0,Dine In,Cash
 Agus Salim,1Z4PGGN,4/4/2023,18:05:21,Milk Based ,Raspberry Milk  ,1,0.0,27000.0,Dine In,Cash
 Agus Salim,1Z4PGGO,4/4/2023,18:15:03,Rich Bowl ,Richbowl Saikoro Spicy BBQ,1,0.0,38000.0,Dine In,Cash
@@ -9417,8 +9417,8 @@ Agus Salim,1Z4PH05,4/12/2023,20:11:01,Milk Based ,Matcha Latte  ,1,0.0,30000.0,D
 Agus Salim,1Z4PH05,4/12/2023,20:11:01,Chocolate ,Choco Vanilla  ,1,0.0,30000.0,Dine In,Gopay
 Agus Salim,1Z4PH06,4/12/2023,20:12:02,Chocolate ,Choco Banana  ,1,0.0,30000.0,Dine In,Cash
 Agus Salim,1Z4PH06,4/12/2023,20:12:02,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,Cash
-Agus Salim,1Z4PH07,4/12/2023,20:15:02,Rich Bowl,Richbowl Katsu Mushroom,1,"15,322,581","22,677,419",Take Away,Cash
-Agus Salim,1Z4PH07,4/12/2023,20:15:02,Tea ,Lemon Tea  ,1,"10,483,871","15,516,129",Take Away,Cash
+"Agus Salim,1Z4PH07,4/12/2023,20:15:02,Rich Bowl,Richbowl Katsu Mushroom,1,""15,322,581"",""22,677,419"",Take Away,Cash"
+"Agus Salim,1Z4PH07,4/12/2023,20:15:02,Tea ,Lemon Tea  ,1,""10,483,871"",""15,516,129"",Take Away,Cash"
 Agus Salim,1Z4PH08,4/12/2023,20:15:50,Gofood  ,Kopi Rakyat   ,3,0.0,66000.0,GoFood,GoFood
 Agus Salim,1Z4PH09,4/12/2023,20:18:02,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,Gopay
 Agus Salim,1Z4PH09,4/12/2023,20:18:02,Signature Coffee ,Kopi Rakyat  ,1,0.0,22000.0,Dine In,Gopay
